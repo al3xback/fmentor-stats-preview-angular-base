@@ -9,7 +9,7 @@ export class CardComponent {
 	title = 'Get <mark>insights</mark> that help your business grow.';
 	description =
 		'Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.';
-	imageSrc = '/assets/images/meeting.jpg';
+	imageUrl = '/assets/images/meeting.jpg';
 	statuses = [
 		{
 			label: 'Companies',
